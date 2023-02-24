@@ -1,0 +1,9 @@
+{
+	"name": "ADFMaheshGitDemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2e2ce3f1-af82-451d-a657-918e7a3eddd6",
+		"tenantId": "86cfebc7-0ff4-442b-9d28-b9c26f9e357d"
+	}
+}
