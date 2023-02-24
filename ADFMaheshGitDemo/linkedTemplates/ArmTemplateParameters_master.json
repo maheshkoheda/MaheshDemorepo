@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "ADFMaheshGitDemo"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
